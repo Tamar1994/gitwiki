@@ -1,0 +1,28 @@
+.item h1 {
+    color:blue;
+    font-size: 24px;
+    margin-top: 15px;
+}
+
+.item h3 {
+    color: #CDCDCD;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.comandos {
+    display: flex;
+    flex-direction: row;
+}
+
+.comandos span {
+    margin-right: 15px;
+}
+
+.acessar {
+    color: lightgreen;
+}
+
+.apagar {
+    color: red;
+}
